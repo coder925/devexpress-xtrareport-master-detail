@@ -1,0 +1,1 @@
+# devexpress-xtrareport-master-detail
