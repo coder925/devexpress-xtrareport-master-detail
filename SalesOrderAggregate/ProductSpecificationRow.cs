@@ -1,9 +1,9 @@
 ﻿public class ProductSpecificationRow
 {
-	public string Caption { get; set; }
+	public string Column1 { get; set; }
 
-	public string Text1 { get; set; }
+	public string Column2 { get; set; }
 
-	public string Text2 { get; set; }
+	public string Column3 { get; set; }
 }
 
